@@ -7,9 +7,6 @@
   "description": "custom prop validator to accept a single value or a type.",
   "main": "lib/index.js",
   "license": "MIT",
-  "peerDependencies": {
-    "react": "^0.13.0"
-  },
   "devDependencies": {
     "react": "^0.14.0",
     "babel-cli": "^6.4.5",
