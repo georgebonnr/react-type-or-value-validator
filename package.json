@@ -35,10 +35,11 @@
     "url": "git+https://github.com/georgebonnr/react-type-or-value-validator.git"
   },
   "keywords": [
-    "node",
     "react",
-    "es2015",
-    "eslint"
+    "proptypes",
+    "proptype",
+    "validator",
+    "functional"
   ],
   "author": "George Bonner <georgebonnr@gmail.com> (http://georgebonnr.com)",
   "bugs": {
