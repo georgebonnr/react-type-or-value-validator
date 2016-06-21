@@ -3,7 +3,7 @@
   "files": [
     "lib"
   ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "custom prop validator to accept a single value or a type.",
   "main": "lib/index.js",
   "license": "MIT",
